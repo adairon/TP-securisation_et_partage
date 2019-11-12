@@ -1,0 +1,27 @@
+.header_links {
+    width: 98%;
+    height: 60px;
+    background-color: rgb(252, 175, 33);
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer_links {
+    width: 98%;
+    height: 40px;
+    background-color: lawngreen;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container-fluid {
+    width: 100%;
+    height: 100px;
+    background-color: rgba(128, 128, 128, 0.171);
+}
