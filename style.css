@@ -25,3 +25,17 @@
     height: 100px;
     background-color: rgba(128, 128, 128, 0.171);
 }
+.visuel{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 600px;
+}
+
+h2 {
+    color:grey;
+}
