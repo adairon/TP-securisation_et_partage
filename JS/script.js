@@ -1,0 +1,1 @@
+alert("découvrez nos promotions Black Friday !");
